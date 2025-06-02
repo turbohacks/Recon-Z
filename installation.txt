@@ -1,0 +1,12 @@
+# Installation Guide for Recon-Z (Educational Purpose)
+
+## Prerequisites
+- Python 3 installed on your system  
+- Internet connection to install dependencies
+
+## Installation Steps
+1. Open a terminal or command prompt.  
+2. Navigate to the tool’s directory using:
+Run This Commands:
+sudo apt update
+sudo apt install python3
