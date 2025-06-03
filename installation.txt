@@ -1,19 +1,18 @@
-# Installation Guide for Recon-Z (Educational Purpose Only)
+# Installation Guide for Recon-Z (Educational Use Only)
 
 ## Prerequisites
-- Python 3 must be installed on your system
+- Python 3 must be installed (comes pre-installed on Kali)
 - Internet connection required
-- Kali or any Linux system
 
-## Step-by-Step Installation
+## Installation Steps
 
-1. Open terminal
+1. Open Terminal
 
-2. Update your system:
+2. Update system and install Python tools:
    sudo apt update
-   sudo apt install python3 python3-pip -y
+   sudo apt install python3 python3-pip python3-venv -y
 
-3. Go to the folder where you extracted Recon-Z:
+3. Clone or navigate to the Recon-Z tool folder:
    cd Recon-Z
 
 4. Create a virtual environment:
@@ -23,11 +22,10 @@
    source venv/bin/activate
 
 6. Install all required Python libraries:
-   pip install -r requirements.txt
+   pip install --break-system-packages -r requirements.txt
 
 7. Run the tool:
    python reconx.py
 
-8. (Optional) Exit the virtual environment after you're done:
+8. Exit the virtual environment after use:
    deactivate
-
