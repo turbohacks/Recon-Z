@@ -1,0 +1,5 @@
+requests
+whois
+pillow
+phonenumbers
+colorama
