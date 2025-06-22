@@ -10,4 +10,4 @@
 - 🕵️ Social Media Username Scanner (50+ platforms)
 - 📡 IP Address Info + Hostname + Map
 - 🧬 Subdomain Scanner (basic brute-force)
-- 📞 Phone Number OSINT (region, carrier, time zone)
+- 📞 Phone Number OSINT (region, carrier, time zone) etc.
