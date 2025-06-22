@@ -1,0 +1,16 @@
+## ⚙️ Installation
+
+```bash
+# Step 1: Clone the repo
+git clone https://github.com/your-username/recon-z.git
+cd recon-z
+
+# Step 2: Create and activate a virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Step 3: Install required packages
+pip install -r requirements.txt
+
+# Step 4: Run the tool
+python recon-z.py
