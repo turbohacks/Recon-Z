@@ -11,3 +11,4 @@
 - 📡 IP Address Info + Hostname + Map
 - 🧬 Subdomain Scanner (basic brute-force)
 - 📞 Phone Number OSINT (region, carrier, time zone)
+- Make sure to subscribe on youtube
