@@ -1,6 +1,6 @@
  🔍 RECON-Z — OSINT & Cyber Reconnaissance Toolkit
 
-**RECON-Z** is an advanced yet beginner-friendly cyber recon tool built in Python, designed for ethical hackers, OSINT investigators, and cybersecurity enthusiasts. Created by [Zeshan Haider (TurboHacks110)](https://youtube.com/@turbohacks110), this CLI tool provides essential reconnaissance modules packed into one terminal interface.
+**RECON-Z** is an advanced yet beginner-friendly cyber recon tool built in Python, designed for ethical hackers, OSINT investigators, and cybersecurity enthusiasts. Created by [Zeshan Haider (TurboHacks110)](https://youtube.com/@turbohacks110) this CLI tool provides essential reconnaissance modules packed into one terminal interface.
 
 ---
 
